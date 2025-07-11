@@ -40,7 +40,7 @@ project-root/
 ---
 **Setup Instructions**
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/promptify-chatbot.git
+git clone https://github.com/Tanishall22atat/promptify-chatbot.git
 cd promptify-chatbot
 2️⃣ Install Dependencies
 Make sure you have Node.js installed. Then run:
